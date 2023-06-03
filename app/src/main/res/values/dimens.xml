@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="labels_text_size">14sp</dimen>
+    <dimen name="half">2dp</dimen>
+    <dimen name="txt0">5dp</dimen>
+    <dimen name="txt1">13dp</dimen>
+    <dimen name="txt2">15dp</dimen>
+    <dimen name="txt6">17dp</dimen>
+    <dimen name="txt7">30dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_dialog_corners">5dp</dimen>
+    <dimen name="_arc_dim">100dp</dimen>
+
+</resources>

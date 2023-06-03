@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorPrimary">#0a0b0b</color>
+    <color name="colorPrimaryDark">#040404</color>
+
+
+    <color name="colorCalcText">#00BCD4</color>
+
+    <color name="toolbar">#1E1A2C</color>
+    <color name="text_color">#ffffff</color>
+    <color name="theamcolor">#fc0029</color>
+    <color name="back_color">#404656</color>
+    <color name="background">#373a41</color>
+    <color name="background_calc">#2e3851</color>
+    <color name="backgroundnew">#fcfcfd</color>
+    <color name="black">#ff000000</color>
+    <color name="btn_back">#1e293f</color>
+    <color name="gray_55">#ff555555</color>
+    <color name="ic_launcher_background">#3b3b3b</color>
+    <color name="lock_bg_blue">#ff373b44</color>
+    <color name="main_color">@color/colorAccent</color>
+    <color name="nw">#3b3b3b</color>
+    <color name="pink_color">#f75177</color>
+    <color name="rippelColor">#ffffff</color>
+    <color name="trans_white">#80ffffff</color>
+    <color name="white">#ffffffff</color>
+
+</resources>

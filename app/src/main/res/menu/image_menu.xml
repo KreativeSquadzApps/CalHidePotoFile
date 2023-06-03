@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itm_select"
+        android:icon="@drawable/ic_check_box_outline"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        android:title="Select All"
+        android:visible="false" />
+    <item
+        android:id="@+id/itm_edit"
+        android:icon="@drawable/ic_edit"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        android:title="Edit"
+        android:visible="false" />
+    <item
+        android:id="@+id/itm_delete"
+        android:icon="@drawable/ic_delete"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Delete"
+        android:visible="false" />
+</menu>
